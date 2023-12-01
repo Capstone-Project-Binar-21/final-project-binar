@@ -1,7 +1,7 @@
 const express = require('express'),
     router = express.Router(),
-    adminRouter = require('./admin.router')
+    courseRouter = require('./course.router')
 
-router.use('/admin', adminRouter)
+router.use('/course', courseRouter)
 
 module.exports = router
