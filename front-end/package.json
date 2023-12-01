@@ -12,6 +12,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
+    "@glidejs/glide": "^3.6.0",
     "@react-oauth/google": "^0.12.1",
     "@reduxjs/toolkit": "^1.9.7",
     "axios": "^1.6.2",
@@ -31,8 +32,6 @@
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react-swc": "^3.3.2",
-    "autoprefixer": "^10.4.16",
-    "daisyui": "^4.4.14",
     "eslint": "^8.45.0",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
